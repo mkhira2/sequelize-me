@@ -9,7 +9,9 @@ git clone https://github.com/mkhira2/sequelize-me.git
 cd sequelize-me
 npm install
 
-edit config/config.json with your username
+createdb [database-name]
+
+edit config/config.json with your specs (username, [database-name])
 
 node app.js
 ```
