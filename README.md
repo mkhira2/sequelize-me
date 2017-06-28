@@ -1,6 +1,6 @@
 # Sequelize-Me
 
-Just a simple 'hello world' app using sequelize.
+Sequelize app allowing you to add users to a database and return the names of all users. Hello world app with several opportunities for expansion and modification. Enjoy!
 
 ## Installation
 
